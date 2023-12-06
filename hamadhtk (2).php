@@ -5,8 +5,8 @@ set_time_limit(0);
 error_reporting(0);
 ob_implicit_flush(1);
 //السلام عليكم ورحمة الله وبركاتة هذا الملف من إضافات وتعديل المطور حمادة @ttavip طبعا الملف انسرق مني وانتشر بكل مكان وكل شخص يقول ملفي كلهم خماطين تغيير حقوقي دليل فشلك//
-$token = "uuuuuuuuuu";//توكنك هنا
-$tokens = "uuuuuuuuu"; //توكنك مرة اخرئ
+$token = "6890976983:AAG5dYL7FQd2Ijys9p60KrMWHP0FEtaPrNo";//توكنك هنا
+$tokens = "6890976983:AAG5dYL7FQd2Ijys9p60KrMWHP0FEtaPrNo"; //توكنك مرة اخرئ
 #تعديل وتطوير حمادة 
 define('API_KEY',$token);
 function bot($method,$datas=[]){
@@ -44,7 +44,7 @@ $forward =$message->forward_from_chat;
 $forwardid = $message->forward_from_chat->id;
 $text = $message->text;
 ### ###حماده###تطوير وتعديلات واضافات##
-$حمادهv = 5806409403; //ايدي حسابك
+$حمادهv = 6714468257; //ايدي حسابك
 $sudo =$حمادهv;
 ### ###حماده### حماده ###
 $id = $message->from->id;
